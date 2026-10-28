@@ -45,6 +45,12 @@ An Odoo 17 module for managing a plumbing and heating business. It connects cust
 
 **Python · XML · Odoo · Docker Compose · PostgreSQL**
 
+### [Bank Management System](https://github.com/vinibrahaj/bank-management-system)
+
+A Java console application supporting account creation, authentication, balance inquiries, fund transfers, transaction statements, and account closure. Includes local file storage, password hashing, an automated simulation, and tests.
+
+**Java · File I/O · BigDecimal · PBKDF2**
+
 ### [Codexion](https://github.com/vinibrahaj/Codexion)
 
 A concurrent simulation in C where threads compete for shared resources. The project explores synchronization, deadlock prevention, resource contention, and FIFO/EDF scheduling.
